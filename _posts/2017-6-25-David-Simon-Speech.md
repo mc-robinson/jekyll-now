@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: David Simon's Speech at his Former High School
+---
 
 I was re-watching some of season 5 of The Wire last night and randomly came across this speech by David Simon after some time on google. 
 
